@@ -22,6 +22,7 @@ En base a ese EDA los KPIs elegidos son:
 ![Alt text](image-3.png)
 ***
 
-Mi nombre es Adrian Szklar, muchas gracias por haber llegado hasta acá y para todo tipo de sugerencias, observaciones, correcciones, etc. dejo mis mails:
+Mi nombre es Adrian Szklar, muchas gracias por haber llegado hasta acá y para todo tipo de sugerencias, observaciones, correcciones, etc. dejo mis mails y mi perfil de Lindedin:
 - szklaradrian@gmail.com
 - szklaradriandatos@gmail.com
+- https://www.linkedin.com/in/adrian-szklar/
