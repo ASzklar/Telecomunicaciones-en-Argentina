@@ -1,4 +1,4 @@
-# Proyecto de análisis del sector de telecomunicaciones en Argentina
+# Proyecto de análisis del sector de telecomunicaciones en Argentina 📞
 ___
 A partir de la data sobre telecomunicaciones en Argentina obtenida [aquí](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) se realiza un análisis exploratorio. A pesar de que el principal objetivo de este proyecto era la parte de EDA, KPIs y dashboard fue necesario realizar previamente algunas transformaciones ya que la data no estaba del todo limpia.
 
