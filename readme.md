@@ -4,7 +4,7 @@ A partir de la data sobre telecomunicaciones en Argentina obtenida [aquí](https
 
 Dentro de la carpeta principal del repositorio pueden encontrar los 16 archivos .csv originales en crudo. Y dentro de la carpeta Data limpia se encuentran los mismos pero luego de las transformaciones, que son los que utilicé para el EDA.
 
-En el archivo ETL.ipynb se trabajaron las transformaciones y en EDA.ipynb el análisis exploratorio de los datos.
+En el archivo *ETL.ipynb* se trabajaron las transformaciones y en *EDA.ipynb* el análisis exploratorio de los datos.
 
 En base a ese EDA los KPIs elegidos son:
 - Proporción de Fibra óptica respecto del total de conexiones
