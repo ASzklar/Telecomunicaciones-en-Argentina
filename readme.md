@@ -16,13 +16,12 @@ En base a ese EDA los KPIs elegidos son:
 
 [Fuente](http://estudiodelamo.com/cotizacion-historica-dolar-peso-argentina/) que utilicé para convertir pesos a dólares. 
 
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
-***
+<img src="image.png" width="750" height="750"/>  
+<img src="image-1.png" width="750" height="750"/>  
+<img src="image-2.png" width="750" height="750"/>  
+<img src="image-3.png" width="750" height="750"/>  
 
-Mi nombre es Adrian Szklar, muchas gracias por haber llegado hasta acá y para todo tipo de sugerencias, observaciones, correcciones, etc. dejo mis mails y mi perfil de Lindedin:
+Mi nombre es Adrian Szklar, **muchas gracias** por haber llegado hasta acá y para todo tipo de sugerencias, observaciones, correcciones, etc. dejo mis mails y mi perfil de Lindedin:
 - szklaradriandatos@gmail.com
 - szklaradrian@gmail.com
 - [Linkedin](https://www.linkedin.com/in/adrian-szklar/)
