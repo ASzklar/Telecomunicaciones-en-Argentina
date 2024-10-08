@@ -12,7 +12,7 @@ En base a ese EDA los KPIs elegidos son:
 - Velocidad media de bajada
 - Promedio de ganancia trimestral en dólares
 
-**Y la conclusión es que si bien en Argentina hay factores como la inflación y cambios drásticos de políticas que influyen fuertemente en el sector de las telecomunicaciones hay una demanda mayoritaria de accesos a internet con las mejores velocidades y tecnologías disponibles. Por lo tanto seguir invirtiendo permanentemente en el mantenimiento y mejoramiento de las redes garantiza seguir aumentando la penetración en los hogares y mantener y/o aumentar los ingresos en dólares. Dentro de este contexto, actualmente la fibra óptica es la mejor opción. Dejo este interesante [link](https://www.rankia.com/blog/mejores-ofertas-internet/1994689-diferencias-adsl-fibra-optica) al respecto de sus beneficios.**
+**Y la conclusión es que, si bien en Argentina hay factores como la inflación y cambios drásticos de políticas que influyen fuertemente en el sector de las telecomunicaciones, hay una demanda mayoritaria de accesos a internet con las mejores velocidades y tecnologías disponibles. Por lo tanto seguir invirtiendo permanentemente en el mantenimiento y mejoramiento de las redes garantiza seguir aumentando la penetración en los hogares y mantener y/o aumentar los ingresos en dólares. Dentro de este contexto, actualmente la fibra óptica es la mejor opción. Dejo este interesante [link](https://www.rankia.com/blog/mejores-ofertas-internet/1994689-diferencias-adsl-fibra-optica) respecto de sus beneficios.**
 
 [Fuente](http://estudiodelamo.com/cotizacion-historica-dolar-peso-argentina/) que utilicé para convertir pesos a dólares. 
 
