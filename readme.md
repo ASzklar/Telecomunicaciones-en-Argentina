@@ -21,7 +21,7 @@ En base a ese EDA los KPIs elegidos son:
 <img src="image-2.png" width="750" height="750"/>  
 <img src="image-3.png" width="750" height="750"/>  
 
-Mi nombre es Adrian Szklar, **muchas gracias** por haber llegado hasta acá y para todo tipo de sugerencias, observaciones, correcciones, etc. dejo mis mails y mi perfil de Lindedin:
+Mi nombre es Adrian Szklar, **muchas gracias** por haber llegado hasta acá y para todo tipo de sugerencias, observaciones, correcciones, etc. dejo mis mails y mi perfil de LindedIn:
 - szklaradriandatos@gmail.com
 - szklaradrian@gmail.com
 - [Linkedin](https://www.linkedin.com/in/adrian-szklar/)
